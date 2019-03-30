@@ -1,0 +1,14 @@
+html{
+    background: #ccccff;
+}
+body{
+    background: #ffccb3;
+}
+h1{
+    color: red;
+}
+img{
+    height:  500px;
+    width: auto%;
+    background: aliceblue;
+}
